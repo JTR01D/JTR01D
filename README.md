@@ -75,11 +75,10 @@ core_principles:
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Actividad & Telemetría en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JTR01D&show_icons=true&theme=tokyonight&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=9CA3AF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTR01D&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=9CA3AF&bg_color=0D1117" alt="Top Languages" width="44%" />
+  <img src="https://streak-stats.demolab.com?user=JTR01D&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 <br />
