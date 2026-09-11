@@ -1,88 +1,93 @@
+<h1 align="center">Hi there 👋, I'm Juan Miranda (JTR01D)</h1>
+
 <div align="center">
 
-  <!-- Banner con efecto de mecanografía animado -->
+  <!-- Typing SVG animado al estilo GPRM -->
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1200&color=0078D4&center=true&vcenter=true&width=680&height=70&lines=Juan+Miranda+%7C+JTR01D;Software+Engineer+%26+Infrastructure+Dev;.NET+10+LTS+%E2%80%A2+C%23+14+%E2%80%A2+WPF+Fluent+UI;Active+Directory+Internals+%E2%80%A2+Zero-RSAT;Cisco+Catalyst+Orchestration+%E2%80%A2+Zero-Trust" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=1200&color=0078D4&center=true&vcenter=true&width=650&height=50&lines=Software+Engineer+%26+Infrastructure+Dev;.NET+10+LTS+%E2%80%A2+C%23+14+%E2%80%A2+WPF+Fluent+UI;Active+Directory+Internals+%E2%80%A2+Zero-RSAT;Cisco+Switch+Orchestration+%E2%80%A2+Zero-Trust" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>Ingeniería de Software de alto rendimiento aplicada a la gestión de infraestructura crítica, redes y seguridad de identidades.</strong>
-  </p>
+  <br />
 
-  <!-- Badges de Core Specialization -->
+  <!-- Contador de visitas estilo GPRM -->
   <p align="center">
-    <img src="https://img.shields.io/badge/.NET_10_LTS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
-    <img src="https://img.shields.io/badge/C%23_14-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# 14" />
-    <img src="https://img.shields.io/badge/WPF-Fluent_Design-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="WPF Fluent" />
-    <img src="https://img.shields.io/badge/Active_Directory-Zero--RSAT-FF6F00?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Active Directory" />
-    <img src="https://img.shields.io/badge/Cisco_Networking-Catalyst_%7C_Enterprise-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-    <img src="https://img.shields.io/badge/Security-Zero--Trust_Defensive-059669?style=for-the-badge&logo=shield&logoColor=white" alt="Security" />
+    <img src="https://komarev.com/ghpvc/?username=JTR01D&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ Arquitectura & Filosofía Técnica
+### 👨‍💻 Sobre Mí
 
-```yaml
-engineer:
-  alias: JTR01D
-  domain: Enterprise Desktop Architecture & Infrastructure Automation
-  methodology: Zero-Trust, Zero-RSAT Dependency, Native Performance
-
-core_principles:
-  performance: "Aplicaciones nativas optimizadas sin overhead de frameworks web en desktop."
-  resilience:  "Operaciones directas sobre protocolos estándar (LDAP RFC 4515, SSH/Telnet síncrono/asíncrono)."
-  security:    "Principio de menor privilegio (Least Privilege), auditorías de cambios y sanitización estricta."
-  ux_dx:       "Interfaces modernas Fluent/Acrylic con arquitectura desacoplada MVVM y DI."
-```
+* 🔭 Actualmente enfocado en el desarrollo de **soluciones nativas de escritorio** de alto rendimiento y herramientas de **automatización de infraestructura**.
+* ⚡ Especialista en **Active Directory Internals (LDAP nativo S.DS.P)** sin dependencias de RSAT y **orquestación de switches Cisco (Catalyst / SG Series)** vía SSH/CLI.
+* 🌱 Profundizando continuamente en **.NET 10 LTS**, **C# 14**, arquitectura **Zero-Trust** y optimizaciones de memoria en entornos Windows.
+* 💬 Pregúntame sobre: **C#, WPF, MVVM, LDAP RFC 4515, Cisco IOS, PowerShell y seguridad defensiva**.
+* 🎯 Filosofía de ingeniería: *"Construir software autónomo, resiliente y libre de sobrecargas innecesarias para equipos de TI."*
 
 ---
 
-### 🛠️ Stack Tecnológico & Especialización
+### 🛠️ Lenguajes & Herramientas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,bash,linux,windows,git,github,visualstudio,vscode" alt="My Skills" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+
+| Especialidad | Tecnologías Clave |
+| :--- | :--- |
+| **Arquitectura de Software** | .NET 10 LTS, C# 14, MVVM Toolkit, Dependency Injection, Clean Architecture |
+| **Desktop UI / UX** | WPF, XAML, Fluent Design System, Acrylic / Mica Blur, Win32 API |
+| **Identidad & Directorio** | System.DirectoryServices.Protocols, LDAP RFC 4515, Kerberos, Zero-RSAT |
+| **Redes & Conectividad** | Cisco IOS, CLI SSH/Telnet, VLANs, Trunking, STP, CDP / LLDP |
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Desktop & Systems Programming</h4>
+      <h3>🛡️ ADManagerPro</h3>
+      <p>Cliente nativo y ligero de gestión de <strong>Active Directory (LDAP)</strong> diseñado para soporte técnico y administradores de sistemas.</p>
       <ul>
-        <li><strong>Lenguajes:</strong> C# 14, .NET 10 LTS, PowerShell 7+, Win32 / P-Invoke.</li>
-        <li><strong>GUI & UX:</strong> WPF, XAML, Windows UI Library / Fluent Design, MVVM Toolkit.</li>
-        <li><strong>Patrones:</strong> Dependency Injection, Clean Architecture, Command Pattern, Asynchronous Pipelines (async/await, Channels).</li>
-        <li><strong>Concurrencia:</strong> Background Tasks, Dispatcher-safe multithreading, telemetría en tiempo real.</li>
+        <li><strong>Cero dependencias:</strong> No requiere RSAT ni módulos de PowerShell del servidor.</li>
+        <li><strong>Seguridad:</strong> Sanitización completa de filtros LDAP (RFC 4515) contra inyecciones.</li>
+        <li><strong>UI Moderna:</strong> Interfaz Fluent con soporte temático y alto rendimiento.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23_14-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Infraestructura, Redes & Seguridad</h4>
+      <h3>🌐 SwitchManagerPro</h3>
+      <p>Plataforma de auditoría, diagnóstico y orquestación remota para <strong>conmutadores Cisco (Catalyst y Small Business)</strong>.</p>
       <ul>
-        <li><strong>Active Directory Internals:</strong> S.DS.P (System.DirectoryServices.Protocols), consultas LDAP de alto rendimiento sin dependencia de RSAT, Kerberos.</li>
-        <li><strong>Networking (Cisco):</strong> Catalyst & Small Business (SG Series), automatización SSH/Telnet, VLANs, trunking, STP, CDP/LLDP.</li>
-        <li><strong>Seguridad:</strong> Sanitización LDAP RFC 4515 para prevenir inyecciones, RBAC, auditoría forense inmutable.</li>
-        <li><strong>Automatización:</strong> Creación de consolas y módulos de administración unificada de TI.</li>
+        <li><strong>Telemetría en tiempo real:</strong> Monitoreo de puertos, estados de enlace y PoE.</li>
+        <li><strong>Automatización:</strong> Backups de configuración, mapeo de VLANs y auditoría de vecinos CDP/LLDP.</li>
+        <li><strong>Conexión segura:</strong> Soporte SSH asíncrono y fallback controlado.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-FF6F00?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-059669?style=flat-square&logo=shield&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Enfoque de Proyectos
-
-* **Herramientas de Administración de Identidad:** Suites de administración para Active Directory diseñadas para SysAdmins y Helpdesk, capaces de gestionar usuarios, grupos y políticas sin requerir herramientas de servidor (Zero-RSAT).
-* **Orquestación de Switches Empresariales:** Módulos de diagnóstico, backup de configuraciones, mapeo de puertos y gestión masiva para conmutadores Cisco.
-* **Sistemas de Auditoría & Cumplimiento:** Registro de actividad transaccional local/remota con exportación automatizada a formatos estandarizados.
-
----
-
-### 📊 Actividad & Telemetría en GitHub
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JTR01D&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Construido con precisión técnica por <b>JTR01D</b> • Optimizando la infraestructura a través del código</sub>
+  <sub>⭐️ Desarrollado con precisión técnica por <b>JTR01D</b> • Optimizando la infraestructura empresarial mediante código</sub>
 </div>
