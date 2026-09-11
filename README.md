@@ -54,12 +54,12 @@ Desarrollador de software enfocado en la construcción de **herramientas de escr
 
 #### ⚙️ Entorno de Desarrollo & Herramientas
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-Agentic_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-Modern_CLI-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/Windows_11-Workstation-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
 </p>
+
 
 <br />
 
