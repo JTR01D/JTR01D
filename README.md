@@ -51,43 +51,6 @@
 
 ---
 
-### 🚀 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ ADManagerPro</h3>
-      <p>Cliente nativo y ligero de gestión de <strong>Active Directory (LDAP)</strong> diseñado para soporte técnico y administradores de sistemas.</p>
-      <ul>
-        <li><strong>Cero dependencias:</strong> No requiere RSAT ni módulos de PowerShell del servidor.</li>
-        <li><strong>Seguridad:</strong> Sanitización completa de filtros LDAP (RFC 4515) contra inyecciones.</li>
-        <li><strong>UI Moderna:</strong> Interfaz Fluent con soporte temático y alto rendimiento.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23_14-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 SwitchManagerPro</h3>
-      <p>Plataforma de auditoría, diagnóstico y orquestación remota para <strong>conmutadores Cisco (Catalyst y Small Business)</strong>.</p>
-      <ul>
-        <li><strong>Telemetría en tiempo real:</strong> Monitoreo de puertos, estados de enlace y PoE.</li>
-        <li><strong>Automatización:</strong> Backups de configuración, mapeo de VLANs y auditoría de vecinos CDP/LLDP.</li>
-        <li><strong>Conexión segura:</strong> Soporte SSH asíncrono y fallback controlado.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-        <img src="https://img.shields.io/badge/Networking-FF6F00?style=flat-square&logo=cisco&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-059669?style=flat-square&logo=shield&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <sub>⭐️ Desarrollado con precisión técnica por <b>JTR01D</b> • Optimizando la infraestructura empresarial mediante código</sub>
 </div>
